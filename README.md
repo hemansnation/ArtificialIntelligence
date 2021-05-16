@@ -62,8 +62,7 @@ Computer Vision Engineer
 Data Scientist
 
 
-Want to learn more about Data Science, Machine Learning and Artificial Intelligence
-contact:
-9074919189
+#Want to learn more about Data Science, Machine Learning and Artificial Intelligence contact:
+#9074919189
 
 
